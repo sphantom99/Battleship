@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ship
+comment1.params=i
+comment1.target=void\ setSize(int)
+comment2.params=
+comment2.target=int\ getSize()
+comment3.params=gstartcell\ gorientation\ gboard\ verbose
+comment3.target=void\ placeShip(Tile,\ int,\ Board,\ boolean)
+numComments=4
